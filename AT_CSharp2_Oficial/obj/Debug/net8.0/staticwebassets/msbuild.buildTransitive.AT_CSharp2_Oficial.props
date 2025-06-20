@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AT_CSharp2_Oficial.props" />
+</Project>

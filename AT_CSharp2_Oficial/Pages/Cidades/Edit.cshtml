@@ -1,0 +1,42 @@
+﻿@page
+@model AT_CSharp2_Oficial.Pages.Cidades.EditModel
+
+@{
+	ViewData["Title"] = "Edit";
+}
+
+<h1>Editar</h1>
+
+<h4>CidadeDestino</h4>
+<hr />
+<div class="row">
+	<div class="col-md-4">
+		<form method="post">
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+			<input type="hidden" asp-for="CidadeDestino.Id" />
+			<div class="form-group">
+				<label asp-for="CidadeDestino.Nome" class="control-label"></label>
+				<input asp-for="CidadeDestino.Nome" class="form-control" />
+				<span asp-validation-for="CidadeDestino.Nome" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="CidadeDestino.PaisDestinoId" class="control-label"></label>
+				<select asp-for="CidadeDestino.PaisDestinoId" class="form-control" asp-items="ViewBag.PaisDestinoId"></select>
+				<span asp-validation-for="CidadeDestino.PaisDestinoId" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<input type="submit" value="Save" class="btn btn-primary" />
+			</div>
+		</form>
+	</div>
+</div>
+
+<div>
+	<a asp-page="Index">Voltar a lista</a>
+</div>
+
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}

@@ -1,0 +1,49 @@
+﻿@page "/notas"
+@model AT_CSharp2_Oficial.Pages.ViewNotesModel
+@{
+}
+
+<h2>Escreva seu texto para salvar em um arquivo!</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Input.Content">Texto:</label>
+        <textarea asp-for="Input.Content" class="form-control"></textarea>
+        <span asp-validation-for="Input.Content" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Salvar</button>
+</form>
+
+<br />
+<h2><strong>Anotações salvas</strong></h2>
+
+@if (Model.Arquivos != null && Model.Arquivos.Any())
+{
+    <ul>
+        @foreach (var arquivo in Model.Arquivos)
+        {
+            <li>
+                <a asp-page="./ViewNotes" asp-route-file="@arquivo">@arquivo</a>
+            </li>
+        }
+
+    </ul>
+}
+else
+{
+    <p>Nenhum arquivo salvo ainda.</p>
+}
+
+@if (!string.IsNullOrEmpty(Model.ConteudoLido))
+{
+    <br />
+    <h2>Visualização do conteúdo: @Model.NomeSelecionado</h2>
+    <p>@Model.ConteudoLido</p>
+}
+
+<a asp-page="/Pacotes/Index">Voltar para página inicial</a>
+
+@section Scripts {
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+}
+

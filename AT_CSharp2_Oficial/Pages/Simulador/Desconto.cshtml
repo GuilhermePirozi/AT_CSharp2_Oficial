@@ -1,0 +1,81 @@
+﻿@page "/desconto"
+@model AT_CSharp2_Oficial.Pages.Simulador.Desconto
+
+@{
+	ViewData["Title"] = "Simular um desconto";
+}
+
+<h1>Simule um pacote turístico com desconto!</h1>
+
+<h4>Pacote Turistico</h4>
+<hr />
+<div class="row">
+	<div class="col-md-4">
+		<form method="post">
+			<div asp-validation-summary="All" class="text-danger"></div>
+			<br />
+			<div class="form-group">
+				<label asp-for="PacoteTuristico.LimiteParticipantes" class="control-label"></label>
+				<input asp-for="PacoteTuristico.LimiteParticipantes" class="form-control" />
+				<span asp-validation-for="PacoteTuristico.LimiteParticipantes" class="text-danger"></span>
+			</div>
+			<br />
+			<div class="form-group">
+				<label class="control-label">Preço sugerido: </label>
+				<input asp-for="PacoteTuristico.Preco" class="form-control" />
+				<span asp-validation-for="PacoteTuristico.Preco" class="text-danger"></span>
+			</div>
+			<br />
+			<div class="form-group">
+				<label>Cidades do Pacote</label>
+				<div>
+					@foreach (var cidade in Model.TodasCidades)
+					{
+						<div class="form-check">
+							<input class="form-check-input"
+								   type="checkbox"
+								   name="CidadesSelecionadas"
+								   value="@cidade.Value"
+								   id="cidade_@cidade.Value" />
+							<label class="form-check-label" for="cidade_@cidade.Value">
+								@cidade.Text
+							</label>
+						</div>
+					}
+				</div>
+			</div>
+			<br />
+			<div class="form-group">
+				<input type="submit" value="Simular " class="btn btn-primary" />
+			</div>
+		</form>
+
+		@if (Model.PrecoComDesconto > 0)
+		{
+			<div>
+				<br />
+				<p><strong>Preço com 10% de desconto: </strong> R$@Model.PrecoComDesconto.ToString()</p>
+			</div>
+			<div>
+				<p><strong>Loggers dentro da list:</strong></p>
+				<ul>
+					@foreach (var log in Model.Memoria)
+					{
+						<li>@log</li>
+					}
+				</ul>
+			</div>
+		}
+	</div>
+</div>
+
+<div>
+	<br />
+	<a asp-page="../Pacotes/Index">Voltar para a Lista</a>
+</div>
+
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}

@@ -1,0 +1,43 @@
+﻿@page
+@model AT_CSharp2_Oficial.Pages.Pacotes.DetailsModel
+
+@{
+	ViewData["Title"] = "Details";
+}
+
+<h1>Detalhes</h1>
+
+<div>
+	<h4>PacoteTuristico</h4>
+	<hr />
+	<dl class="row">
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.PacoteTuristico.Nome)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.PacoteTuristico.Nome)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.PacoteTuristico.Data)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.PacoteTuristico.Data)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.PacoteTuristico.Preco)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.PacoteTuristico.Preco)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.PacoteTuristico.LimiteParticipantes)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.PacoteTuristico.LimiteParticipantes)
+		</dd>
+	</dl>
+</div>
+<div>
+	<a asp-page="./Edit" asp-route-id="@Model.PacoteTuristico.Id">Edit</a> |
+	<a asp-page="./Index">Voltar a lista</a>
+</div>

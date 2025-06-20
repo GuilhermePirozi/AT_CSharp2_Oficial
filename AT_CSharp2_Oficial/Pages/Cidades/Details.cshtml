@@ -1,0 +1,31 @@
+﻿@page
+@model AT_CSharp2_Oficial.Pages.Cidades.DetailsModel
+
+@{
+	ViewData["Title"] = "Details";
+}
+
+<h1>Detalhes</h1>
+
+<div>
+	<h4>CidadeDestino</h4>
+	<hr />
+	<dl class="row">
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.CidadeDestino.Nome)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.CidadeDestino.Nome)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.CidadeDestino.PaisDestino)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.CidadeDestino.PaisDestino.Id)
+		</dd>
+	</dl>
+</div>
+<div>
+	<a asp-page="./Edit" asp-route-id="@Model.CidadeDestino.Id">Edit</a> |
+	<a asp-page="Index">Voltar a lista</a>
+</div>

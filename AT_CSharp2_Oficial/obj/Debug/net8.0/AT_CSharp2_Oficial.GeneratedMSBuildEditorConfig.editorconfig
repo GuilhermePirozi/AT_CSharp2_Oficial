@@ -1,0 +1,173 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AT_CSharp2_Oficial
+build_property.RootNamespace = AT_CSharp2_Oficial
+build_property.ProjectDir = C:\Users\guilh\Documents\Código-AT_CSharp2_Oficial\CSharpTurismo\AT_CSharp2_Oficial\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\guilh\Documents\Código-AT_CSharp2_Oficial\CSharpTurismo\AT_CSharp2_Oficial
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Cidades/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2lkYWRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Cidades/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2lkYWRlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Cidades/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2lkYWRlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Cidades/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2lkYWRlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Cidades/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2lkYWRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Pacotes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFjb3Rlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Pacotes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFjb3Rlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Pacotes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFjb3Rlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Pacotes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFjb3Rlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Pacotes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFjb3Rlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Paises/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFpc2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Paises/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFpc2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Paises/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFpc2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Paises/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFpc2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Paises/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFpc2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Reservas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXJ2YXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Reservas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXJ2YXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Reservas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXJ2YXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Reservas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXJ2YXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Reservas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXJ2YXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Simulador/CalcularTotal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2ltdWxhZG9yXENhbGN1bGFyVG90YWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Simulador/Desconto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2ltdWxhZG9yXERlc2NvbnRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/ViewNotes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld05vdGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/Documents/Código-AT_CSharp2_Oficial/CSharpTurismo/AT_CSharp2_Oficial/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-sdj86vs8ha

@@ -1,0 +1,60 @@
+﻿@page "/"
+@model AT_CSharp2_Oficial.Pages.Pacotes.IndexModel
+
+@{
+	ViewData["Title"] = "Index";
+}
+
+
+<p>
+	<a asp-page="Create">Criar Novo</a>
+</p>
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.PacoteTuristico[0].Nome)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.PacoteTuristico[0].Data)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.PacoteTuristico[0].Preco)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.PacoteTuristico[0].LimiteParticipantes)
+			</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model.PacoteTuristico)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.Nome)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Data)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Preco)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.LimiteParticipantes)
+				</td>
+				<td>
+					<a asp-page="./Edit" asp-route-id="@item.Id">Editar</a> |
+					<a asp-page="./Details" asp-route-id="@item.Id">Detalhes</a> |
+					<a asp-page="./Delete" asp-route-id="@item.Id">Apagar</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
+<a asp-page="../Cidades/Index">Cidades</a>
+<a asp-page="../Paises/Index">Paises</a>
+<a asp-page="../Clientes/Index">Clientes</a>
+<a asp-page="../Reservas/Index">Reservas</a>
+<a asp-page="../ViewNotes">Notas</a>
