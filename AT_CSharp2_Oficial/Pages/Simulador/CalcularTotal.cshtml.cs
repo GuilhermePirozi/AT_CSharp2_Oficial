@@ -2,8 +2,10 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using AT_CSharp2_Oficial.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace AT_CSharp2_Oficial.Pages.Simulador {
+    [Authorize]
     public class CalcularTotalModel : PageModel {
         private readonly AT_CSharp2_Oficial.Data.AppDbContext _context;
 

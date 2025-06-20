@@ -1,4 +1,3 @@
-using System;
 using AT_CSharp2_Oficial.Data;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;

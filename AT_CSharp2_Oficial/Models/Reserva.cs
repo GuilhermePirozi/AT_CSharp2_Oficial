@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace AT_CSharp2_Oficial.Models {
+﻿namespace AT_CSharp2_Oficial.Models {
     public class Reserva {
         public int Id { get; set; }
 

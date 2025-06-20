@@ -1,8 +1,10 @@
 using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace AT_CSharp2_Oficial.Pages {
+    [Authorize]
     public class ViewNotesModel : PageModel {
 
         public class InputModel {

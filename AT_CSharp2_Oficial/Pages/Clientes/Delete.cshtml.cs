@@ -1,5 +1,4 @@
-﻿using System.Threading.Tasks;
-using AT_CSharp2_Oficial.Data;
+﻿using AT_CSharp2_Oficial.Data;
 using AT_CSharp2_Oficial.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;

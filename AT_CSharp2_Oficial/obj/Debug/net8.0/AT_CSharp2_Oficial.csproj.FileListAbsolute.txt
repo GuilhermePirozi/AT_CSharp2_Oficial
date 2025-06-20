@@ -286,3 +286,4 @@ C:\Users\guilh\Documents\Código-AT_CSharp2_Oficial\CSharpTurismo\AT_CSharp2_Ofi
 C:\Users\guilh\Documents\Código-AT_CSharp2_Oficial\CSharpTurismo\AT_CSharp2_Oficial\obj\Debug\net8.0\AT_CSharp2_Oficial.genruntimeconfig.cache
 C:\Users\guilh\Documents\Código-AT_CSharp2_Oficial\CSharpTurismo\AT_CSharp2_Oficial\obj\Debug\net8.0\ref\AT_CSharp2_Oficial.dll
 C:\Users\guilh\Documents\Código-AT_CSharp2_Oficial\CSharpTurismo\AT_CSharp2_Oficial\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\guilh\Documents\Código-AT_CSharp2_Oficial\CSharpTurismo\AT_CSharp2_Oficial\obj\Debug\net8.0\AT_CSharp2_Oficial.sourcelink.json

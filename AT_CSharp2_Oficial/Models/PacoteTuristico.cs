@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace AT_CSharp2_Oficial.Models {
+﻿namespace AT_CSharp2_Oficial.Models {
     public class PacoteTuristico {
         public int Id { get; set; }
         public string? Nome { get; set; }

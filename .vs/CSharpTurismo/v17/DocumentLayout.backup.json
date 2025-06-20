@@ -1,54 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\guilh\\Documents\\C\u00F3digo-AT_CSharp2_Oficial\\CSharpTurismo\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A315C9A1-5DAA-4103-B5ED-BA3527CE1FB9}|AT_CSharp2_Oficial\\AT_CSharp2_Oficial.csproj|c:\\users\\guilh\\documents\\c\u00F3digo-at_csharp2_oficial\\csharpturismo\\at_csharp2_oficial\\pages\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A315C9A1-5DAA-4103-B5ED-BA3527CE1FB9}|AT_CSharp2_Oficial\\AT_CSharp2_Oficial.csproj|solutionrelative:at_csharp2_oficial\\pages\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A315C9A1-5DAA-4103-B5ED-BA3527CE1FB9}|AT_CSharp2_Oficial\\AT_CSharp2_Oficial.csproj|c:\\users\\guilh\\documents\\c\u00F3digo-at_csharp2_oficial\\csharpturismo\\at_csharp2_oficial\\pages\\cidades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A315C9A1-5DAA-4103-B5ED-BA3527CE1FB9}|AT_CSharp2_Oficial\\AT_CSharp2_Oficial.csproj|solutionrelative:at_csharp2_oficial\\pages\\cidades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\C\u00F3digo-AT_CSharp2_Oficial\\CSharpTurismo\\AT_CSharp2_Oficial\\Pages\\Clientes\\Index.cshtml",
-              "RelativeDocumentMoniker": "AT_CSharp2_Oficial\\Pages\\Clientes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\guilh\\Documents\\C\u00F3digo-AT_CSharp2_Oficial\\CSharpTurismo\\AT_CSharp2_Oficial\\Pages\\Clientes\\Index.cshtml",
-              "RelativeToolTip": "AT_CSharp2_Oficial\\Pages\\Clientes\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-20T06:56:58.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\C\u00F3digo-AT_CSharp2_Oficial\\CSharpTurismo\\AT_CSharp2_Oficial\\Pages\\Cidades\\Index.cshtml",
-              "RelativeDocumentMoniker": "AT_CSharp2_Oficial\\Pages\\Cidades\\Index.cshtml",
-              "ToolTip": "C:\\Users\\guilh\\Documents\\C\u00F3digo-AT_CSharp2_Oficial\\CSharpTurismo\\AT_CSharp2_Oficial\\Pages\\Cidades\\Index.cshtml",
-              "RelativeToolTip": "AT_CSharp2_Oficial\\Pages\\Cidades\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-20T06:56:13.195Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
