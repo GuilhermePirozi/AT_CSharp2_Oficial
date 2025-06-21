@@ -8,3 +8,4 @@ Desconto: preço original R$2000000 - com desconto R$1800000,0
 Desconto: preço original R$2000000 - com desconto R$1800000,0
 Desconto: preço original R$2000000 - com desconto R$1800000,0
 Desconto: preço original R$100 - com desconto R$90,0
+Desconto: preço original R$100 - com desconto R$90,0

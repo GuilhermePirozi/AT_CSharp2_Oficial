@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZlYQ/pYuFIRW5TAGO8DkcwvPkBwXfayINjSWxrKy0gU=",
+  "Hash": "coELljAO1xo5y/PFA4pRGRAwUjm9J6eZrMGEzQzDaaE=",
   "Source": "AT_CSharp2_Oficial",
   "BasePath": "_content/AT_CSharp2_Oficial",
   "Mode": "Default",
@@ -120,6 +120,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\files\\note-20250620-024405.txt"
+    },
+    {
+      "Identity": "C:\\Users\\guilh\\Documents\\Código-AT_CSharp2_Oficial\\CSharpTurismo\\AT_CSharp2_Oficial\\wwwroot\\files\\note-20250620-143435.txt",
+      "SourceId": "AT_CSharp2_Oficial",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\guilh\\Documents\\Código-AT_CSharp2_Oficial\\CSharpTurismo\\AT_CSharp2_Oficial\\wwwroot\\",
+      "BasePath": "_content/AT_CSharp2_Oficial",
+      "RelativePath": "files/note-20250620-143435#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jntfoycq2x",
+      "Integrity": "IZzGk5hdbwv1XsfTE2Dngp1hMDfBwbnO3RaSFfeDt+k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\note-20250620-143435.txt"
     },
     {
       "Identity": "C:\\Users\\guilh\\Documents\\Código-AT_CSharp2_Oficial\\CSharpTurismo\\AT_CSharp2_Oficial\\wwwroot\\js\\site.js",
@@ -1748,6 +1769,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-KbKOfEIVV23BDjx5cWErVpO1FbqwmZZxVKUsu5HgIGg="
+        }
+      ]
+    },
+    {
+      "Route": "files/note-20250620-143435.jntfoycq2x.txt",
+      "AssetFile": "C:\\Users\\guilh\\Documents\\Código-AT_CSharp2_Oficial\\CSharpTurismo\\AT_CSharp2_Oficial\\wwwroot\\files\\note-20250620-143435.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IZzGk5hdbwv1XsfTE2Dngp1hMDfBwbnO3RaSFfeDt+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 17:34:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jntfoycq2x"
+        },
+        {
+          "Name": "label",
+          "Value": "files/note-20250620-143435.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IZzGk5hdbwv1XsfTE2Dngp1hMDfBwbnO3RaSFfeDt+k="
+        }
+      ]
+    },
+    {
+      "Route": "files/note-20250620-143435.txt",
+      "AssetFile": "C:\\Users\\guilh\\Documents\\Código-AT_CSharp2_Oficial\\CSharpTurismo\\AT_CSharp2_Oficial\\wwwroot\\files\\note-20250620-143435.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IZzGk5hdbwv1XsfTE2Dngp1hMDfBwbnO3RaSFfeDt+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 17:34:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IZzGk5hdbwv1XsfTE2Dngp1hMDfBwbnO3RaSFfeDt+k="
         }
       ]
     },

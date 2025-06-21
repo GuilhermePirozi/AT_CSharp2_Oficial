@@ -331,6 +331,88 @@
       ]
     },
     {
+      "Route": "files/note-20250620-143435.jntfoycq2x.txt",
+      "AssetFile": "files/note-20250620-143435.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IZzGk5hdbwv1XsfTE2Dngp1hMDfBwbnO3RaSFfeDt+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 17:34:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jntfoycq2x"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IZzGk5hdbwv1XsfTE2Dngp1hMDfBwbnO3RaSFfeDt+k="
+        },
+        {
+          "Name": "label",
+          "Value": "files/note-20250620-143435.txt"
+        }
+      ]
+    },
+    {
+      "Route": "files/note-20250620-143435.txt",
+      "AssetFile": "files/note-20250620-143435.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IZzGk5hdbwv1XsfTE2Dngp1hMDfBwbnO3RaSFfeDt+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 17:34:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IZzGk5hdbwv1XsfTE2Dngp1hMDfBwbnO3RaSFfeDt+k="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "js/site.js",
       "Selectors": [],

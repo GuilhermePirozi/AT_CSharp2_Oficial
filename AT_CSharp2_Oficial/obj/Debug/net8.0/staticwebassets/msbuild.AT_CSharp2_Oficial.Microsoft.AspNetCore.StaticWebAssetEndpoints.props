@@ -48,6 +48,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KbKOfEIVV23BDjx5cWErVpO1FbqwmZZxVKUsu5HgIGg="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"21"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022KbKOfEIVV23BDjx5cWErVpO1FbqwmZZxVKUsu5HgIGg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 05:44:05 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AT_CSharp2_Oficial/files/note-20250620-143435.jntfoycq2x.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\files\note-20250620-143435.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jntfoycq2x"},{"Name":"integrity","Value":"sha256-IZzGk5hdbwv1XsfTE2Dngp1hMDfBwbnO3RaSFfeDt\u002Bk="},{"Name":"label","Value":"_content/AT_CSharp2_Oficial/files/note-20250620-143435.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022IZzGk5hdbwv1XsfTE2Dngp1hMDfBwbnO3RaSFfeDt\u002Bk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 17:34:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AT_CSharp2_Oficial/files/note-20250620-143435.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\files\note-20250620-143435.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IZzGk5hdbwv1XsfTE2Dngp1hMDfBwbnO3RaSFfeDt\u002Bk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022IZzGk5hdbwv1XsfTE2Dngp1hMDfBwbnO3RaSFfeDt\u002Bk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 17:34:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/AT_CSharp2_Oficial/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
